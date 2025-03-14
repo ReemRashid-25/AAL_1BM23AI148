@@ -1,0 +1,9 @@
+Metric         10          50         100        1000
+log(n)/count    0.029147   0.002124   0.000610   0.000009
+n/count         0.000013   0.000066   0.000131   0.001314
+n^2/count       0.000131   0.003285   0.013138   1.313807
+nlog(n)/count   0.000030   0.000257   0.000605   0.009075
+
+--------------------------------
+Process exited after 0.02358 seconds with return value 0
+Press any key to continue . . .

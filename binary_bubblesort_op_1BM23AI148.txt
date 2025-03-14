@@ -1,0 +1,8 @@
+Original array: 85 32 90 71 61 52 20 71 67 44 13 77 49 67 27 99 21 24 64 34
+Sorted array: 13 20 21 24 27 32 34 44 49 52 61 64 67 67 71 71 77 85 90 99
+Key to be searched: 32
+Key 32 found at index 5
+
+--------------------------------
+Process exited after 0.02032 seconds with return value 0
+Press any key to continue . . .
